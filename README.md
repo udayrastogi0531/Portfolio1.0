@@ -104,77 +104,7 @@
 
 </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="Tech Stack Icons" />
-</div>
-
 ---
-
-## � GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udayrastogi0531&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3664F4&icon_color=3664F4" alt="Uday's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayrastogi0531&theme=radical&hide_border=true&background=0D1117&stroke=3664F4&ring=3664F4&fire=FF6B6B&currStreakLabel=FF6B6B" alt="Uday's GitHub Streak" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayrastogi0531&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3664F4" alt="Most Used Languages" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udayrastogi0531&bg_color=0D1117&color=3664F4&line=FF6B6B&point=3664F4&area=true&hide_border=true" alt="Contribution Graph" width="48%"/>
-</div>
-
----
-
-## �📁 Project Architecture
-
-<div align="center">
-
-```text
-🎨 Portfolio1.0/
-├── 📄 index.html                    # Main entry point
-├── 📖 README.md                     # Documentation (you're here!)
-├── 📧 EMAILJS_SETUP.md              # Email configuration guide
-│
-├── 🎨 assets/                       # All static assets
-│   ├── 🎨 style.css                # Main stylesheet
-│   ├── 📁 css/                     # Additional stylesheets
-│   │   ├── 🎨 styles.css           # Core styles
-│   │   └── 🎨 swiper-bundle.min.css # Swiper styles
-│   │
-│   ├── ⚡ js/                      # JavaScript files
-│   │   ├── ⚡ main.js               # Core functionality
-│   │   ├── ⚡ scrollreveal.min.js   # Animation library
-│   │   ├── ⚡ swiper-bundle.min.js  # Carousel library
-│   │   └── ⚡ mixitup.min.js        # Filter library
-│   │
-│   ├── 🖼️ img/                     # Image assets
-│   │   ├── 👤 about.jpg            # Profile image
-│   │   ├── 👤 perfil.png           # Avatar
-│   │   ├── 💼 work1.jpg            # Project screenshots
-│   │   └── 💼 ...                  # More project images
-│   │
-│   ├── 📄 pdf/                     # Document files
-│   │   └── 📄 resume.pdf           # CV/Resume
-│   │
-│   └── 🎯 favicons/                # Website icons
-│       ├── 🎯 favicon.ico          # Browser tab icon
-│       └── 🎯 ...                  # Various icon sizes
-│
-└── 🖼️ preview/                     # Preview images
-    ├── 🌙 dark-theme.png           # Dark mode preview
-    └── ☀️ light-theme.png          # Light mode preview
-```
-
-</div>
-
-## 🎨 Sections
-
-1. **Hero Section**: Eye-catching introduction with animated elements
-2. **About**: Personal information and professional summary
-3. **Skills**: Technical skills with animated progress bars
-4. **Services**: Services offered with interactive cards
-5. **Portfolio**: Project showcase with filtering options
-6. **Testimonials**: Client feedback carousel
-7. **Contact**: Contact form and social media links
 
 ## 🚀 Getting Started
 
@@ -200,31 +130,6 @@
    - Double-click `index.html` to open in your default browser
    - Or use Live Server extension in VS Code for development
 
-### Local Development
-
-1. **Using VS Code Live Server**
-   - Install Live Server extension
-   - Right-click on `index.html`
-   - Select "Open with Live Server"
-
-2. **Using Python (if installed)**
-   ```bash
-   # Python 3
-   python -m http.server 8000
-   
-   # Python 2
-   python -m SimpleHTTPServer 8000
-   ```
-   Then visit `http://localhost:8000`
-
-## 📧 EmailJS Setup
-
-To enable the contact form functionality:
-
-1. Create an account at [EmailJS](https://www.emailjs.com/)
-2. Follow the setup instructions in `EMAILJS_SETUP.md`
-3. Update the EmailJS configuration in `assets/js/main.js`
-
 ## 🎨 Customization
 
 ### Colors
@@ -244,17 +149,6 @@ Edit the CSS custom properties in `assets/css/styles.css`:
 - Modify project details in the portfolio section
 - Update resume/CV in `assets/pdf/` folder
 
-### Animations
-Customize animations in `assets/js/main.js`:
-```javascript
-// ScrollReveal animations
-ScrollReveal().reveal('.section-title', {
-    duration: 2000,
-    origin: 'bottom',
-    distance: '30px'
-});
-```
-
 ## 📱 Responsive Breakpoints
 
 - **Mobile**: 320px - 768px
@@ -267,26 +161,6 @@ ScrollReveal().reveal('.section-title', {
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
-- Internet Explorer 11+
-
-## 📊 Performance Features
-
-- Optimized images and assets
-- Minified CSS and JavaScript libraries
-- Efficient animations with CSS transforms
-- Lazy loading for better performance
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -311,43 +185,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Header"/>
-
 </div>
 
 ---
-
-<div align="center">
-
-### 💖 Support This Project
-
-If you like this project, please consider:
-
-[![Star this repo](https://img.shields.io/badge/⭐_Star_this_repo-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/udayrastogi0531/Portfolio1.0)
-[![Fork this repo](https://img.shields.io/badge/🍴_Fork_this_repo-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/udayrastogi0531/Portfolio1.0/fork)
-[![Follow me](https://img.shields.io/badge/👤_Follow_me-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/udayrastogi0531)
-
-### 📈 Repository Stats
-
-![Repository Size](https://img.shields.io/github/repo-size/udayrastogi0531/Portfolio1.0?style=flat-square&color=blue)
-![Last Commit](https://img.shields.io/github/last-commit/udayrastogi0531/Portfolio1.0?style=flat-square&color=green)
-![Issues](https://img.shields.io/github/issues/udayrastogi0531/Portfolio1.0?style=flat-square&color=red)
-![Pull Requests](https://img.shields.io/github/issues-pr/udayrastogi0531/Portfolio1.0?style=flat-square&color=orange)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=16&fontAlign=70&fontAlignY=40&fontColor=ffffff" width="100%"/>
-</div>
 
 <div align="center">
   
 **Made with ❤️ by [Uday Rastogi](https://github.com/udayrastogi0531)**
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=udayrastogi0531.Portfolio1.0&left_color=blueviolet&right_color=orange" alt="Visitor Count"/>
 
 </div>
